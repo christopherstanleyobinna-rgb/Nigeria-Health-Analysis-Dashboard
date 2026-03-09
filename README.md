@@ -2,7 +2,7 @@
 ![](hospital_pic.jpg)
 ## Project Overview
 
-This project presents a data-driven analysis of disease occurrence and mortality across Nigeria using an interactive dashboard. The goal of the analysis is to identify patterns in disease distribution, highlight high-risk regions, and provide insights that can support better public health decision-making.
+This project was developed as part of the Codeant Technology Hub – Talent Pool Mentorship Program and It focuses on data-driven analysis of disease occurrence and mortality across Nigeria using an interactive dashboard. The goal of the analysis is to identify patterns in disease distribution, highlight high-risk regions, and provide insights that can support better public health decision-making.
 The dashboard analyzes 10 major diseases across 37 Nigerian states, examining factors such as mortality rates, disease prevalence, regional differences, age group impact, and yearly trends.
 
 # Dashboard Preview
